@@ -2,7 +2,10 @@
 
 ## Description
 
-Download TV show `.NFO` files from [TheTVDB.com](https://www.thetvdb.com).
+The original project proposed the following:
+::: Download TV show `.NFO` files from [TheTVDB.com](https://www.thetvdb.com).
+
+This fork aims to add the option to download the information needed to generate the NFO files from the website https://www.themoviedb.org/
 
 ## Motivation
 
